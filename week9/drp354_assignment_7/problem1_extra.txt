@@ -1,0 +1,82 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.1 extra (.txt files)               #
+##############################################
+
+##############################################
+Overview
+##############################################
+Program is designed to show the 24-hour(daily
+timeframe) histogram of top-8 Agencies with 
+most complaints. The main idea is to see what 
+time the complaints have been filed each day
+within specific time ranges.
+
+##############################################
+How to run the program
+##############################################
+execute it with:
+
+$ python problem1_extra.py [filename.csv] 
+  [number of agency] [start date] [end date]
+
+1. start date < end date
+
+2. start date and end date must be within the
+   time range of the dataset.   
+
+3. I suggested you use maximum 8 number of agency
+   for the best view (not making it too small).
+   3 gives best results in the experience.
+
+4. start date and end date is in 
+   "YYYY/MM/DD-HH/MM/SS" formats.
+   e.g.:  
+   from 06/01/2013 12:00:00 AM -> 2013/06/01-00:00:00
+   to 08/31/2013 11:59:59 PM.  -> 2013/08/31-23:59:59
+
+Alternatively, type:
+$ python problem1_extra.py -h OR --help
+for help guide of each arguments.
+
+
+##############################################
+Interesting finding
+##############################################
+First, I estimated using existing 311 data used
+in this assignment, from June to August 2013.
+One thing that was not apparent when running
+problem1_2.py (bar plot of top complaints) is
+how the complaints were registered by hours.
+By plotting into time frame we can see that:
+ 
+1. We could see that HPD who hold most complaints,
+   has all complaints that were registered at 
+   12:00:00 AM. This tells us that probably there 
+   is an error in registration/ or the complaints
+   manually reported daily, not hourly. Because of 
+   this error, I manually excluded HPD from the 
+   process because it is no longer relevant for this
+   observation.
+2. We could see DOT and NYPD has noticeably
+   patterns, where DOT was filed mostly in the 
+   noon, while NYPD received most complaints 
+   at night.
+
+In additions, I also tried to plot the histogram
+of before and after hurricane Sandy:
+Before Sandy (2012/10/01 - 2012/10/21)
+During Sandy (2012/10/22 - 2012/11/02)
+After Sandy (2012/11/03 - 2012/11/20)
+
+1. We could see that where before Sandy shows
+   relatively same reporting patterns as
+   June - August 2013. 
+2. During hurricane Sandy, top complaints shifted 
+   to DPR. 
+3. After Sandy DPR still becomes top complaints
+   where most of the complaints of DOT and DPR
+   peaked at 10-15.

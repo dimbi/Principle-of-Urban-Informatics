@@ -1,0 +1,48 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.3 extra (.txt files)               #
+##############################################
+
+##############################################
+Interesting finding
+##############################################
+A. problem3_1.py
+1. We can see the linear correlation between
+   population number per zip code with the
+   total number of complaints per zipcodes.
+
+B. problem3_2.py
+1. TLC's number of complaints stay low 
+   regardless of the size of populatin
+   in the zip code in which TLC has 
+   most complaints compared to other 
+   agencies.
+2. Zipcodes that have NYPD as top complaints 
+   were found in various population size, where 
+   only zipcodes that have less than 70,000 
+   population recorded DOT and DPR as their 
+   primary complaints target.
+3. NYPD were complained the most in the range of
+   30,000-40,000 population.
+4. DOB did not appear in the data since it is
+   never the top complaints target in every
+   size of population.   
+
+
+##############################################
+Additional questions
+##############################################
+1. How different statistically each observed agencies
+   in terms of linear/polynomial regression coefficient?
+   Perhaps adding ols fitted values for each agency
+   (only those which we are interested to observe)
+   into the graph will make it easier to compare
+   each population VS number of complaint relation.
+   I simulated the rough approach in problem3_2extra.py
+   (not mandatory in this assigment).
+
+2. It will be more intuitive we can also plot the
+   the result on map, let's say, using cartoDB.

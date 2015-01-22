@@ -1,0 +1,15 @@
+Job ID | 
+Agency | 
+# Of Positions | 
+Business Title | 
+Civil Service Title | 
+Salary Range From| 
+Salary Range To| 
+Salary Frequency |
+Work Location | 
+Division /Work Unit | 
+Job Description |
+Minimum Qual Requirements | 
+Preferred Skills | 
+Additional Information | 
+Posting Date

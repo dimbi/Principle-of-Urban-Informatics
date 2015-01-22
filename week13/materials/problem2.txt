@@ -1,0 +1,7 @@
+0.001
+The naive computation took 110.142117977 seconds
+The kdtree computation took 9.44705820084 seconds
+
+0.005
+The naive computation took 112.77154398 seconds
+The kdtree computation took 25.4029319286 seconds

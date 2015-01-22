@@ -1,0 +1,145 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.1_extra                            #
+##############################################
+
+import argparse,csv, sys, os
+from datetime import date,datetime
+import matplotlib.dates as dates
+import matplotlib.pyplot as plt
+import numpy as np
+from collections import OrderedDict,defaultdict
+
+def main(csv_filename):
+
+  data = {}
+  sumPerAgency = {}
+  num = 4    #number
+  sTime =  "06/01/2013 12:00:00 AM"
+  eTime =  "08/31/2013 11:59:00 PM"
+
+  #Reading the files
+  with open(csv_filename, 'rb') as f:
+    csvReader = csv.reader(f)
+    headers = next(csvReader)
+
+    #limit start and end time    
+    startTime = datetime.strptime(sTime,"%m/%d/%Y %I:%M:%S %p") 
+    endTime = datetime.strptime(eTime,"%m/%d/%Y %I:%M:%S %p") 
+
+    for row in csvReader:
+      agency = row[3]
+      createdTime = row[1]
+      
+      #currenttime filed from csv file
+      curTime = datetime.strptime(createdTime,"%m/%d/%Y %I:%M:%S %p") 
+      #aggregate complaints per hour
+      curTimeInt = int(curTime.strftime("%H"))
+
+      #count agency volume
+      if curTime>=startTime and curTime<=endTime:
+        if agency in data:
+          if curTimeInt in data[agency]:
+            data[agency][curTimeInt] += 1
+            sumPerAgency[agency] += 1
+          else:
+            data[agency][curTimeInt] = 1
+            sumPerAgency[agency] += 1
+        else:
+          data[agency] = {}
+          data[agency][curTimeInt] = 1
+          sumPerAgency[agency]=1
+      else:
+        pass
+     
+  f.close()
+
+
+
+  #sorting from the top-k complaint
+  sumPerAgency = sorted(sumPerAgency.iteritems(), key=lambda x: (-x[1]))  
+
+  #sorting date and appending into lists
+  agenName = []
+  x=[]
+  y=[]
+  index = 0
+  
+  #iterate only for agency name that is in top-k
+  for elem in sumPerAgency[1:num+2]:
+    #append agency name
+    agenName.append(elem[0])
+    x.append([])
+    y.append([])
+    
+    #iterating per-day data
+    for agen in data:
+      if elem[0] == agen:
+        #sort ascending by date
+        data[agen]= OrderedDict(sorted(data[agen].items(), key=lambda x: (x[0])))
+        #iterating into lists
+        for iterdate, counts in data[agen].iteritems():
+          x[index].append(iterdate)        
+          y[index].append(counts)
+        index+=1
+        #break
+      else:
+        pass
+  print x[0]
+  print x[1]
+  print x[2]
+  print x[3]
+  print y[0]
+  print y[1]
+  print y[2]
+  print y[3]
+  print len(x[0]),len(x[1]),len(x[2]),len(x[3])
+  print len(y[0]),len(y[1]),len(y[2]),len(y[3])
+ 
+  #histogram plot variable
+  #fig, axes = plt.subplots(nrows=1, ncols=1)
+  #ax0, ax1, ax2, ax3 = axes.flat
+  #ax0=axes.flat
+  colors = ['red', 'tan', 'lime','blue','yellow']
+  n = 10
+  title = "Volume of complaints \nbetween %s - %s" % (sTime,eTime)
+  alp = .6
+
+  #first histogram
+  #ax0.hist(y, n, normed=1, histtype='bar', alpha = alp, color=colors[0], label=agenName)
+  #ax0.legend(prop={'size': 10})
+  #ax0.set_title(agenName[0])
+
+  #second histogram
+  #ax0.hist(y[1], n, normed=1, histtype='bar', alpha = alp, color=colors[1], label=agenName[1])
+  #ax0.legend(prop={'size': 10})
+  #ax0.set_title(agenName[1])
+
+  #third histogram
+  #ax0.hist(y[2], n, normed=1, histtype='bar', alpha = alp, color=colors[2], label=agenName[2])
+  #ax0.legend(prop={'size': 10})
+  #ax0.set_title(agenName[2])
+
+  #fourth histogram
+  #ax0.hist(y[3], n, normed=1, histtype='bar', alpha = alp, color=colors[3], label=agenName[3])
+  #ax0.legend(prop={'size': 10})
+  #ax0.set_title(agenName[3])
+
+  #plot
+  #plt.xlim(xlim0,xlim1)
+  #plt.xticks(ind,agenName)
+  plt.hist(y, n, normed=1, histtype='bar', alpha = alp, color=colors, label=agenName)
+  plt.legend(prop={'size': 10})
+  plt.title(title)
+  plt.savefig('figure_1_Extra.png')
+  plt.show()
+  
+if __name__ == '__main__':
+  parser = argparse.ArgumentParser()
+  parser.add_argument("csv_file", help="enter csv file name / directory")
+  args = parser.parse_args()
+  csv_filename = args.csv_file
+  main(csv_filename)

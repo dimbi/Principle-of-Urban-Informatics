@@ -1,0 +1,66 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.1 (.txt files)                     #
+##############################################
+
+##############################################
+Overview
+##############################################
+For this assignment, traditional dictionary
+was used instead of data processing library
+such as pandas because of several reasons:
+1. I need to take only 2-3 arguments from the 
+   csv data so memory footprints could be reduced 
+   to minimum (I do not need to load the whole
+   fields like in pandas).  
+2. It only requires considerably basic type of
+   sorting. Pandas' specific features are not
+   yet needed.
+
+##############################################
+Data processing and program design
+##############################################
+The main points of development:
+1. Iteratively comparing min date and max date
+   so that the title of the graph represents 
+   the time range of the dataset being used.
+   it works for any data set, sorted or not 
+   sorted.
+
+A. problem1_1.py
+1. Color selections were set as fixed variables
+   according to sample figure (in problems) because
+   it already provides good presentation to viewer.
+
+B. problem1_2.py
+1. Color were generated in random manner, adjustable 
+   to the number of agencies that the user specified, 
+   in order tomake it easier to understand. In addition,
+   I changed the x-axis tickname with the agency name
+   so the viewer can identify which agency belongs 
+   to which bar plot.
+2. Barplot width and xlim were also adjusted
+   automatically so that it can maintain the
+   plot design regardless the number of agencies 
+   the user specified.
+3. I added number complaint value as an explicit
+   annotation at the top of the bar plot because 
+   viewer needs to know the if they want to compare
+   one
+
+##############################################
+Data analysis
+##############################################
+1. From the data we could project top 15 bar and  
+   observe that HPD had most complaints, followed by
+   DOT, NYPD, DEP, DSNY, DPR, DOB, DOHMH, DOF, DCA
+   TLC,HRA, FDNY, CHALL and 3-1-1.
+2. We could see that HPD led by the difference of
+   almost 40,000 complaints from the second highest
+   DOT.
+3. DOT - DOHMH showed relatively equal difference 
+   at about 4,000
+   com

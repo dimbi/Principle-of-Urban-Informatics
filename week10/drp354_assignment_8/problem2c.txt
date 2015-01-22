@@ -1,0 +1,17 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 8                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.2c (.txt files)                    #
+##############################################
+
+##############################################
+Hypothesis
+##############################################
+It looked somehow people submitted the assign-
+ments quite early and dispersed at the beginning,
+probably when the material is still less difficult
+and tend to procrastinate and submit close to
+(or even after the deadline) for assignment 3
+and later.

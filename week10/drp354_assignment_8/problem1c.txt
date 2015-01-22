@@ -1,0 +1,59 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 8                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.1c (.txt files)                    #
+##############################################
+
+##############################################
+Plotting
+##############################################
+For this problem, pandas was used for the sake
+of simplicity (and for this dataset performance
+difference can be ignored). Pandas plotting 
+library by default already consist:
+1. Grid is set to True. This is not needed for
+   a simple plot (like the graph covered in cass). 
+   So I changed into False.
+2. xlim and ylim has already been set to only
+   accomodate areas surrounding the graph. We
+   need to set it to give margin so that the 
+   dot does not fall on the tip of the figure
+   (this concept was covered in class).
+   - I manually add offset of 1 month in each
+     xlim (min and max point)
+   - I manually added ylim based on observation
+     and set points which is smaller (for ymin)
+     and larger (ymax) compared to the stock
+     values.
+3. Number of tickname is set to 45 degrees
+   by default, I changed it to horizontal 
+   to make it easier to see.
+4. Color by default is set to blue.
+
+In addition,
+5. I added 'gv-'  and 'bo-'to make dot plot 
+   connected with a line with fixed color
+   blue and green
+6. I added Title, xlabel and ylabel to make 
+   the graph clear to viewer.
+7. I added base line using same color with the
+   color of the symbol plot of stock
+8. Legend is added accordingly for better 
+   presentation.
+9. I created two horizontal subplot with xlim
+   and ylim set equal as mentioned above.
+
+##############################################
+Conclusion
+##############################################
+Since I set ylim to be the same, the function
+of this graph is similar to problem 1b. The 
+presentation is quite similar. However, Juxtaposed
+mode might be needed if we need to have different
+scale to see more fluctuation of microsoft stocks,
+for example.Moreover,presenting in juxtaposed m
+ode might ease the viewer if there are alot of 
+overlaps in graph.
+

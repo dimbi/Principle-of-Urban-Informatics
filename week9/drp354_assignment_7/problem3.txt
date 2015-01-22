@@ -1,0 +1,77 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.3 (.txt files)                     #
+##############################################
+
+##############################################
+Overview
+##############################################
+
+##############################################
+Choices made for Data processing
+##############################################
+Same with first number, for this problem, 
+traditional dictionary is preferred to data 
+processing library such as pandas (see reasons
+in problem1.txt)
+
+A. problem3_1.py
+1. Iteratively comparing min date and max date
+   so that the title of the graph represents 
+   the time range of the dataset being used.
+   it works for any data set, sorted or not 
+   sorted.
+2. one dictionary is sufficient for this
+   problem.
+
+B. problem3_2.py
+1. Iteratively comparing min date and max date
+   so that the title of the graph represents 
+   the time range of the dataset being used.
+   it works for any data set, sorted or not 
+   sorted.
+2. Data was processed in two separate dictionaries,
+   one single dictionary for the sum of complaints 
+   per zipcodes, and one nested dictionary for 
+   recording complaints per agency
+   for each zipcodes. This dictionaries then 
+   used for crosschecking the zipcodes for the
+   second csv file, to find the population.
+   This result is then put into list for
+   plotting.
+
+
+##############################################
+Choices made for Data Plotting
+##############################################
+A. problem3_1.py
+1. Color selections were set as green and opacity
+   as 0.3 to produce beautiful plot.
+2. Grid is set to on for better justification
+3. The bottom and left limit of the axis is set as
+   0 because there is no possibility the result
+   is smaller than (0,0), and to follow the 45 
+   degrees concept discussed in class.
+4. Linear prediction is added (statsmodel library)
+   to emphasize the general correlation between 
+   population VS number complaints.
+
+B. problem3_2.py
+1. Since we want to estimate only several pre-selected
+   agencies, the graph were categorized as "NYPD",
+   "DOT", "DOB","TLC", "DPR" and "others". 
+2. NYPD-DPR were assigned by bigger and unique 
+   plot marker/shape and different colors to make
+   the the observation easier.
+3. "others", since we are not interested to see
+   into details, but still need to compare in general,
+   were plotted in black dots.
+4. Grid is set to on for better justification
+5. The bottom and left limit of the axis is set as
+   0 because there is no possibility the result
+   is smaller than (0,0), and to follow the 45 
+   degrees concept discussed in class.
+

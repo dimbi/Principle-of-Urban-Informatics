@@ -1,0 +1,70 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 7                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.2 extra (.txt files)               #
+##############################################
+
+##############################################
+Overview
+##############################################
+Program is designed to show the time series of
+top N agencies before, during and after Sandy.
+In purpose of encouraging the viewer to under
+stand the data better, top 3 agencies were
+highlited in bold (larger linewidth). In 
+addition, period of Hurricane Sandy was also
+highlighted using span plot.
+
+
+##############################################
+How to run the program
+##############################################
+execute it with:
+
+$ python problem1_extra.py [filename.csv] 
+  [number of agency] [start date] [end date]
+
+1. start date < end date
+
+2. start date is some time before Hurricane
+   Sandy occurred and end date is consequently
+   some time after Hurricane Sandy occurred.
+
+3. start date and end date must be within the
+   time range of the dataset.
+   for the best view (not making it too small).
+
+4. start date and end date is in 
+   "YYYY/MM/DD-HH/MM/SS" formats.
+   e.g.:  
+   from 06/01/2013 12:00:00 AM -> 2013/06/01-00:00:00
+   to 08/31/2013 11:59:59 PM.  -> 2013/08/31-23:59:59
+
+Alternatively, type:
+$ python problem1_extra.py -h OR --help
+for help guide of each arguments.
+
+
+##############################################
+Interesting finding
+##############################################
+
+1. We could see that starting at the beginning 
+   until the middle of Sandy, top 3 complaints
+   decreased. This is probably caused by people
+   being panic, the infrastructure collapsed and 
+   therefore peope were not reporting complaints. 
+2. In the last half of Hurricane Sandy, top 
+   complaints shifted to DPR (Park and recreation)
+   with its peak reached around 4200 complaints.
+   This is possibly caused by the apparent 
+   destruction towards the landmarks and parks
+   and with people being more settled, they start
+   to report the most apparent destruction. 
+3. After hurricane Sandy, number of complaints
+   to HPD peaked at around 4300 complaints. 
+   This is possibly because of the refugees
+   getting back to their homes and start to
+   report their problem.

@@ -1,0 +1,8 @@
+clear
+insert|2|HRA|1|SCIENTIST|SCIENTIST|71220|100000|Annual|NY|Off|The Office|Assignment|Candidates must have| |07/03/2014 00:00:00
+insert|1|DEPARTMENT OF BUILDINGS|1|Assistant|AGENCY ATTORNEY|66970|92000|Annual|N.Y.|General Counsel's Office|Responsibilities|Admission| | |08/27/2014 00:00:00
+insert|4|HRA|1|PROCUREMENT ANALYST|MANAGER|49492|90000|Annual|Brooklyn|Procurement|Financial|baccalaureate| |P468|08/04/2014 00:00:00
+insert|3|DESIGN|1|College Aide|COLLEGE AIDE|14|17|Hourly|NY|ITS|COLLEGE|Level I|Preference| |07/14/2014 00:00:00
+insert|5|LAW DEPARTMENT|1|Assessor|ASSESSOR|40623|100000|Annual|Queens|Tax|supervision|baccalaureate|elibigible| |11/26/2013 00:00:00
+delete_all|Job ID|4
+dump

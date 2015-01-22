@@ -1,0 +1,29 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 8                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.2a (.txt files)                    #
+##############################################
+
+##############################################
+Number of bins
+##############################################
+I calculated number of bin using interquartile
+approach discussed in class resource. This 
+method will get first and third interquartile
+ranges IQA (= Q3-Q1) from n number of samples:
+
+     w = 2.0*iqr*(n**(-1.0/3.0))
+
+where w is the width of the bin. From here, I
+then can calculate number of bin simply by:
+
+numberbin = int(deltaNum/w)
+
+
+Since there are too many days (98 days in the
+dataset range), for xticklabel frequency, I only 
+make 98/14 = 7 to satisfy xtickname rule in the
+slide, which is said to be best in the range
+of 3-10.

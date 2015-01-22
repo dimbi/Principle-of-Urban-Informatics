@@ -1,0 +1,23 @@
+##############################################
+##############################################
+#      Principle of urban informatics        # 
+#      Assignment 8                          #
+#      Dimas Rinarso Putro | drp354@nyu.edu  #
+#      No.2b (.txt files)                    #
+##############################################
+
+##############################################
+Hypothesis
+##############################################
+It looked somehow the total number of assigments (
+actions) for assignments 0-2 is smaller, and 
+at the same timemore dispersed than the latter 
+assigments. Assignment 0 and 1 combined accounted
+for about less than 4000 submission in peak time,
+while some assigments such as 3 and 5 can get
+more than 10,000 submission during peak time.
+
+However, it is hard to say in more detail since
+we cannot differentiate the percentage of 
+EACH assignment's frequency only from this 
+timestamp data.
