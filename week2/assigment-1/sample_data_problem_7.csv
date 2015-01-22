@@ -1,0 +1,301 @@
+Unique Key,Created Date,Closed Date,Agency,Agency Name,Complaint Type,Descriptor,Incident Zip,Status
+27108512,01/09/2014 01:57:00 AM,01/10/2014 01:45:00 AM,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),11211,Closed
+27041962,01/03/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11212,Closed
+27037983,01/02/2014 12:00:00 AM,01/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11203,Closed
+27054068,01/04/2014 12:00:00 AM,01/08/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10453,Closed
+27150273,01/15/2014 08:09:00 AM,01/16/2014 12:00:00 PM,DSNY,BCC - Brooklyn South,Missed Collection (All Materials),1 Missed Collection,11219,Closed
+27131409,01/12/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,LIGHTING,11221,Closed
+27177292,01/17/2014 05:01:33 PM,02/06/2014 09:13:06 AM,DOHMH,Department of Health and Mental Hygiene,Indoor Air Quality,Other (Explain Below),10028,Closed
+27217115,01/22/2014 12:00:00 AM,01/26/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11220,Closed
+27151321,01/15/2014 12:00:00 AM,01/23/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,RADIATOR,11216,Closed
+27240067,01/24/2014 07:30:00 PM,01/26/2014 12:00:00 PM,DSNY,"A - Illegal Posting Staten Island, Queens and Brooklyn",Dirty Conditions,E15 Illegal Postering,11436,Closed
+27116881,01/10/2014 10:07:02 PM,01/10/2014 11:01:47 PM,NYPD,New York City Police Department,Blocked Driveway,No Access,11368,Closed
+27247968,01/26/2014 10:25:11 PM,02/05/2014 11:39:49 AM,TLC,Taxi and Limousine Commission,Taxi Complaint,Driver Complaint,10029,Closed
+27122288,01/10/2014 10:39:00 AM,01/10/2014 10:39:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,11416,Closed
+27161222,01/16/2014 03:19:00 PM,01/16/2014 06:50:00 PM,DEP,Department of Environmental Protection,Water System,Leak (Use Comments) (WA2),11361,Closed
+27041147,01/03/2014 09:06:29 AM,01/03/2014 12:29:41 PM,NYPD,New York City Police Department,Illegal Parking,Posted Parking Sign Violation,11220,Closed
+27221339,01/22/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27082229,01/07/2014 12:00:00 AM,01/09/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11212,Closed
+27273977,01/27/2014 06:51:46 PM,01/29/2014 12:35:00 PM,DOT,Department of Transportation,Street Condition,Pothole,10310,Closed
+27293088,01/28/2014 08:56:36 AM,01/29/2014 12:54:00 PM,DOT,Department of Transportation,Street Condition,Pothole,11366,Closed
+27268026,01/27/2014 08:41:00 AM,01/28/2014 09:30:00 AM,DEP,Department of Environmental Protection,Sewer,Catch Basin Clogged/Flooding (Use Comments) (SC),10304,Closed
+27253802,01/25/2014 12:00:00 AM,01/26/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11230,Closed
+27256031,01/24/2014 12:00:00 AM,02/03/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,SMOKE-DETECTOR,11237,Closed
+27067941,01/05/2014 12:00:00 AM,01/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27054646,01/04/2014 12:00:00 AM,01/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10473,Closed
+27211886,01/21/2014 11:29:00 AM,01/21/2014 11:35:00 AM,DEP,Department of Environmental Protection,Water System,No Water/Low Pressure (WA5),10006,Closed
+27276227,01/28/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11106,Closed
+27119646,01/10/2014 12:25:00 AM,01/11/2014 01:45:00 AM,DEP,Department of Environmental Protection,Noise,Noise: Jack Hammering (NC2),10308,Closed
+27186584,01/18/2014 12:00:00 AM,01/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11432,Closed
+27098993,01/08/2014 12:00:00 AM,01/08/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10472,Closed
+27088559,01/07/2014 12:00:00 AM,01/14/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11237,Closed
+27280008,01/28/2014 01:40:00 PM,01/29/2014 03:45:00 PM,DEP,Department of Environmental Protection,Air Quality,"Air: Dust, Construction/Demolition (AE4)",10003,Closed
+27274642,01/28/2014 03:17:11 PM,02/13/2014 01:07:10 AM,DCA,Department of Consumer Affairs,Consumer Complaint,Damaged Vehicle,11101,Closed
+27048814,01/03/2014 11:04:13 AM,,DOB,Department of Buildings,Boilers,Boiler - Defective/Inoperative/No Permit,11421,Open
+27282968,01/29/2014 08:45:00 PM,01/31/2014 11:31:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,11379,Closed
+27027562,01/01/2014 12:00:00 AM,01/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11209,Closed
+27167279,01/16/2014 12:00:00 AM,01/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27256336,01/24/2014 12:00:00 AM,02/04/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11102,Closed
+27133357,01/12/2014 12:52:34 PM,01/12/2014 12:52:34 PM,DOT,Department of Transportation,Street Condition,Pothole,11223,Closed
+27295987,01/30/2014 11:04:00 AM,01/30/2014 11:04:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,11436,Closed
+27140524,01/13/2014 12:00:00 AM,03/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,WIRING,10467,Closed
+27126629,01/11/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27099423,01/08/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11221,Closed
+27229736,01/23/2014 12:00:00 AM,02/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11226,Closed
+27032252,01/02/2014 10:22:47 AM,01/02/2014 11:46:11 AM,NYPD,New York City Police Department,Derelict Vehicle,With License Plate,11411,Closed
+27087257,01/07/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10458,Open
+27237572,01/23/2014 12:40:00 PM,01/24/2014 12:00:00 PM,DSNY,A - Brooklyn,Snow,E9 Snow / Icy Sidewalk,11206,Closed
+27194516,01/20/2014 05:50:00 PM,01/20/2014 05:50:00 PM,DEP,Department of Environmental Protection,Water System,Excessive Water In Basement (WEFB),10009,Closed
+27212966,01/21/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,FLOOR,10457,Closed
+27059715,01/05/2014 09:44:00 PM,01/06/2014 12:45:00 PM,DEP,Department of Environmental Protection,Water Conservation,Water Meter Broken/Leaking - Private Residence (CMR),10306,Closed
+27112694,01/09/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,FLOOR,10453,Closed
+27273753,01/28/2014 12:00:00 AM,02/14/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-SUPPLY,11218,Closed
+27062170,01/05/2014 07:54:33 PM,01/05/2014 08:05:29 PM,NYPD,New York City Police Department,Illegal Parking,Commercial Overnight Parking,11356,Closed
+27196054,01/20/2014 07:03:54 AM,02/03/2014 04:00:53 PM,DCA,Department of Consumer Affairs,Consumer Complaint,Non-Delivery Goods/Services,11231,Closed
+27235053,01/23/2014 12:00:00 AM,01/28/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11220,Closed
+27081660,01/07/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11354,Open
+27072244,01/06/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,11358,Open
+27235522,01/23/2014 01:57:12 PM,01/24/2014 06:47:41 AM,DPR,Department of Parks and Recreation,Overgrown Tree/Branches,Dead Branches in Tree,11366,Closed
+27085367,01/07/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10033,Closed
+27189921,01/19/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11222,Closed
+27231368,01/23/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,GAS,11207,Closed
+27275188,01/27/2014 02:36:57 PM,01/28/2014 01:20:00 PM,DOT,Department of Transportation,Street Condition,Pothole,11365,Closed
+27232173,01/23/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10032,Closed
+27222207,01/22/2014 10:15:27 AM,01/28/2014 11:46:20 AM,DOT,Department of Transportation,Broken Muni Meter,No Receipt,10036,Closed
+27267080,01/27/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27087099,01/07/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27175209,01/17/2014 12:00:00 AM,01/22/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11377,Closed
+27113228,01/09/2014 09:33:00 PM,01/10/2014 11:18:00 AM,DEP,Department of Environmental Protection,Noise,"Noise, Barking Dog (NR5)",10029,Closed
+27118733,01/10/2014 05:41:05 PM,01/10/2014 07:34:17 PM,NYPD,New York City Police Department,Illegal Parking,Posted Parking Sign Violation,10019,Closed
+27054073,01/04/2014 12:00:00 AM,01/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10029,Closed
+27094791,01/08/2014 12:00:00 AM,01/19/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,WINDOWS,10003,Closed
+27292330,01/30/2014 12:00:00 AM,02/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,DOORS,10452,Closed
+27274166,01/28/2014 02:59:00 PM,01/29/2014 12:00:00 PM,DSNY,BCC - Queens East,Missed Collection (All Materials),1 Missed Collection,11358,Closed
+27274102,01/28/2014 11:39:00 AM,01/28/2014 01:15:35 PM,NYPD,New York City Police Department,Blocked Driveway,No Access,11205,Closed
+27266073,01/27/2014 12:00:00 AM,03/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,APPLIANCE,ELECTRIC/GAS RANGE,11385,Closed
+27099706,01/08/2014 12:50:00 PM,01/08/2014 04:15:00 PM,DEP,Department of Environmental Protection,Water Conservation,Water Meter Broken/Leaking - Private Residence (CMR),11694,Closed
+27189945,01/19/2014 10:49:00 PM,01/19/2014 11:00:00 PM,DEP,Department of Environmental Protection,Water System,Dirty Water (WE),11203,Closed
+27263569,01/27/2014 09:36:00 PM,01/30/2014 09:45:00 PM,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),10016,Closed
+27221321,01/22/2014 12:00:00 AM,01/25/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11221,Closed
+27260676,01/25/2014 12:00:00 AM,02/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,FLOOR,10457,Closed
+27141928,01/12/2014 09:00:55 AM,01/13/2014 12:10:00 PM,DOT,Department of Transportation,Street Condition,Pothole,11218,Closed
+27028689,01/01/2014 12:00:00 AM,01/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10459,Closed
+27220573,01/22/2014 06:46:00 AM,01/22/2014 12:00:00 PM,DSNY,BCC - Queens West,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,11378,Closed
+27036395,01/02/2014 12:00:00 AM,01/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11221,Closed
+27109816,01/09/2014 12:00:00 AM,03/18/2014 12:00:00 AM,DOHMH,Department of Health and Mental Hygiene,Unsanitary Animal Pvt Property,Animal Odor,11249,Closed
+27128023,01/11/2014 12:00:00 AM,01/16/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11218,Closed
+27295771,01/30/2014 03:49:00 PM,02/01/2014 12:00:00 PM,DSNY,A - Staten Island,Dirty Conditions,E3A Dirty Area/Alleyway,10303,Closed
+27267092,01/27/2014 12:00:00 AM,01/28/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10036,Closed
+27251198,01/24/2014 12:00:00 AM,01/28/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10463,Closed
+27195341,01/20/2014 12:00:00 AM,01/22/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10030,Closed
+27255810,01/26/2014 12:00:00 AM,01/28/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11203,Closed
+27208620,01/21/2014 12:00:00 AM,02/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,10456,Closed
+27277630,01/27/2014 05:58:12 PM,01/28/2014 08:10:00 AM,DOT,Department of Transportation,Street Condition,Pothole,11235,Closed
+27240996,01/24/2014 02:04:00 AM,01/24/2014 03:40:00 AM,DEP,Department of Environmental Protection,Sewer,Sewer Backup (Use Comments) (SA),11204,Closed
+27178227,01/17/2014 05:46:00 PM,02/01/2014 12:00:00 PM,DSNY,A - Brooklyn,Dirty Conditions,E3 Dirty Sidewalk,11230,Closed
+27032195,01/02/2014 12:07:08 PM,01/02/2014 01:35:03 PM,NYPD,New York City Police Department,Illegal Parking,Blocked Hydrant,11204,Closed
+27077466,01/07/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10453,Closed
+27135051,01/12/2014 03:14:08 PM,01/13/2014 09:46:00 AM,DOT,Department of Transportation,Street Condition,Pothole,11423,Closed
+27137900,01/13/2014 10:02:00 AM,01/13/2014 12:35:00 PM,DEP,Department of Environmental Protection,Sewer,Sewer Odor (SA2),11419,Closed
+27077171,01/07/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,DOORS,11210,Closed
+27055631,01/04/2014 12:00:00 AM,01/09/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10458,Closed
+27085633,01/07/2014 12:00:00 AM,01/07/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10032,Closed
+27257250,01/25/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27125662,01/11/2014 11:36:00 PM,01/13/2014 12:50:00 PM,DEP,Department of Environmental Protection,Noise,"Noise, Barking Dog (NR5)",11229,Closed
+27146404,01/14/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-WIRING,10458,Closed
+27247249,01/25/2014 06:42:38 PM,01/25/2014 09:16:23 PM,NYPD,New York City Police Department,Blocked Driveway,No Access,11212,Closed
+27203711,01/21/2014 08:57:00 AM,01/25/2014 12:00:00 PM,DSNY,BCC - Brooklyn South,Missed Collection (All Materials),1 Missed Collection,11204,Closed
+27043380,01/03/2014 12:00:00 AM,01/07/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10026,Closed
+27120057,01/10/2014 12:00:00 AM,03/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11413,Closed
+27301290,01/31/2014 12:00:00 AM,02/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,SEWER,10303,Closed
+27075317,01/06/2014 03:53:06 PM,01/08/2014 12:00:00 AM,DOB,Department of Buildings,Special Enforcement,SEP - Professional Certification Compliance Audit,10455,Closed
+27147872,01/14/2014 05:09:05 PM,01/23/2014 12:00:00 AM,DOB,Department of Buildings,General Construction/Plumbing,Curb Cut/Driveway/Carport - Illegal,10312,Closed
+27192809,01/19/2014 12:00:00 AM,02/18/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,DOORS,11216,Closed
+27083008,01/07/2014 02:08:00 PM,01/07/2014 05:15:00 PM,DEP,Department of Environmental Protection,Sewer,Sewer Backup (Use Comments) (SA),11433,Closed
+27058999,01/05/2014 03:56:27 PM,01/05/2014 10:02:22 PM,NYPD,New York City Police Department,Blocked Driveway,No Access,11423,Closed
+27081161,01/07/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27176980,01/17/2014 12:00:00 AM,01/23/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10040,Closed
+27175017,01/17/2014 12:00:00 AM,02/20/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,WINDOWS,10463,Closed
+27268336,01/27/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10009,Closed
+27207316,01/21/2014 12:00:00 AM,01/22/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10453,Closed
+27108216,01/09/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10468,Closed
+27257814,01/24/2014 12:00:00 AM,02/18/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,APPLIANCE,ELECTRIC/GAS-RANGE,11220,Closed
+27183315,01/17/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,DOORS,11691,Open
+27189422,01/19/2014 11:30:00 AM,01/19/2014 11:40:00 AM,DEP,Department of Environmental Protection,Sewer,Sewer Backup (Use Comments) (SA),11224,Closed
+27295114,01/30/2014 12:00:00 AM,02/18/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,11221,Closed
+27185650,01/18/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,BASIN/SINK,11427,Closed
+27112467,01/09/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-SUPPLY,11233,Closed
+27248691,01/26/2014 09:22:39 AM,01/26/2014 10:45:32 AM,NYPD,New York City Police Department,Derelict Vehicle,With License Plate,10314,Closed
+27265466,01/27/2014 12:00:00 AM,01/29/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11207,Closed
+27055969,01/04/2014 11:18:11 AM,03/03/2014 12:00:00 AM,DOB,Department of Buildings,Building/Use,No Certificate Of Occupancy/Illegal/Contrary To CO,11419,Closed
+27152067,01/15/2014 04:45:00 PM,01/15/2014 06:00:00 PM,DEP,Department of Environmental Protection,Hazardous Materials,Chemical Odor (HD1),10452,Closed
+27223020,01/22/2014 12:00:00 AM,01/26/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10031,Closed
+27030475,01/02/2014 12:00:00 AM,01/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10029,Closed
+27124571,01/11/2014 12:00:00 AM,01/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10465,Closed
+27192273,01/19/2014 12:00:00 AM,01/23/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,LIGHTING,11238,Closed
+27190631,01/19/2014 12:00:00 AM,01/22/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,11415,Closed
+27022319,01/01/2014 02:51:57 AM,01/01/2014 10:43:48 AM,NYPD,New York City Police Department,Blocked Driveway,No Access,11421,Closed
+27082177,01/07/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11385,Closed
+27186971,01/18/2014 04:24:57 PM,,DOB,Department of Buildings,Boilers,Boiler - Defective/Inoperative/No Permit,10473,Open
+27153089,01/15/2014 12:00:00 PM,01/16/2014 04:20:00 AM,DEP,Department of Environmental Protection,Sewer,Sewer Backup (Use Comments) (SA),11435,Closed
+27283699,01/29/2014 12:00:00 AM,02/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10031,Closed
+27171786,01/17/2014 10:09:45 AM,,TLC,Taxi and Limousine Commission,Taxi Complaint,Driver Complaint,10005,Open
+27251966,01/24/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,10034,Open
+27273306,01/28/2014 11:04:03 AM,01/28/2014 01:56:29 PM,DPR,Department of Parks and Recreation,Dead Tree,Dead/Dying Tree,11234,Closed
+27151144,01/14/2014 07:01:11 PM,01/24/2014 09:00:00 AM,DOT,Department of Transportation,Street Condition,Pothole,10456,Closed
+27178785,01/17/2014 04:16:12 PM,02/05/2014 04:23:49 PM,DCA,Department of Consumer Affairs,Consumer Complaint,Sidewalk Blocked,10010,Closed
+27232373,01/23/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11216,Closed
+27155519,01/15/2014 08:38:54 AM,02/21/2014 12:00:00 AM,DOB,Department of Buildings,Building/Use,Zoning - Non-Conforming/Illegal Vehicle Storage,11208,Closed
+27293408,01/30/2014 07:15:00 AM,01/31/2014 12:00:00 PM,DSNY,BCC - Queens East,Snow,15S Re-Plow/Spread/Ice-Snow Cond.,11422,Closed
+27197235,01/20/2014 06:56:00 PM,01/24/2014 12:00:00 PM,DSNY,Brooklyn North 03,Missed Collection (All Materials),1C Uncollected Xmas Trees,11233,Closed
+27150323,01/15/2014 12:00:00 AM,01/18/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,BASIN/SINK,11236,Closed
+27088246,01/07/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-WIRING,11220,Closed
+27259750,01/26/2014 12:00:00 AM,01/29/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11215,Closed
+27190641,01/19/2014 12:00:00 AM,02/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,CERAMIC-TILE,11238,Closed
+27051100,01/04/2014 02:08:00 PM,01/04/2014 02:08:00 PM,DSNY,BCC - Brooklyn South,Snow,15S Re-Plow/Spread/Ice-Snow Cond.,11210,Closed
+27030508,01/02/2014 12:00:00 AM,01/06/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10467,Closed
+27134670,01/13/2014 12:00:00 AM,02/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,10030,Closed
+27223165,01/20/2014 10:10:21 AM,01/22/2014 12:00:00 AM,DOB,Department of Buildings,General Construction/Plumbing,Sidewalk Shed/Pipe Scafford - Inadequate Defective/None,10023,Closed
+27260434,01/24/2014 12:00:00 AM,02/18/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,WALLS,10025,Closed
+27083323,01/08/2014 01:02:52 AM,01/13/2014 11:13:37 AM,DOT,Department of Transportation,Broken Muni Meter,Out of Order,11372,Closed
+27088902,01/07/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27256286,01/24/2014 12:00:00 AM,03/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,10026,Closed
+27151211,01/15/2014 06:44:00 PM,01/15/2014 06:44:00 PM,DSNY,Bronx 04,Derelict Vehicles,14 Derelict Vehicles,10451,Pending
+27289617,01/29/2014 10:14:20 AM,01/29/2014 01:15:14 PM,NYPD,New York City Police Department,Illegal Parking,Blocked Sidewalk,11204,Closed
+27300772,01/30/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27227847,01/23/2014 02:52:26 PM,01/23/2014 03:02:09 PM,NYPD,New York City Police Department,Illegal Parking,Detached Trailer,11430,Closed
+27127418,01/11/2014 12:00:00 AM,01/15/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,RADIATOR,10033,Closed
+27124511,01/11/2014 01:47:00 PM,01/14/2014 10:30:00 PM,DEP,Department of Environmental Protection,Water System,Dirty Water (WE),10461,Closed
+27139069,01/13/2014 07:52:00 PM,01/13/2014 07:52:00 PM,DSNY,Queens West 04,Derelict Vehicles,14 Derelict Vehicles,11368,Pending
+27264219,01/28/2014 12:32:00 AM,01/28/2014 11:12:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,11385,Closed
+27284934,01/29/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27254443,01/26/2014 12:00:00 AM,01/29/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11220,Closed
+27296241,01/30/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11216,Closed
+27224384,01/22/2014 12:00:00 AM,01/25/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11225,Closed
+27108784,01/09/2014 01:14:35 PM,01/09/2014 03:20:36 PM,NYPD,New York City Police Department,Vending,In Prohibited Area,11223,Closed
+27088244,01/07/2014 01:49:12 PM,01/28/2014 04:26:24 PM,TLC,Taxi and Limousine Commission,Taxi Complaint,Driver Complaint,11221,Closed
+27032644,01/02/2014 07:06:41 AM,01/02/2014 08:08:59 AM,NYPD,New York City Police Department,Blocked Driveway,No Access,11370,Closed
+27274138,01/28/2014 04:18:00 PM,01/28/2014 04:18:00 PM,DSNY,BCC - Brooklyn South,Derelict Vehicles,14 Derelict Vehicles,11236,Pending
+27153936,01/15/2014 01:28:00 PM,01/15/2014 01:28:00 PM,DOT,Department of Transportation,Street Light Condition,Lamppost Base Door/Cover Open,11222,Closed
+27306568,01/31/2014 12:00:00 AM,03/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,10453,Closed
+27077401,01/07/2014 12:00:00 AM,01/12/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11226,Closed
+27051555,01/04/2014 12:00:00 AM,01/07/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11691,Closed
+27159580,01/17/2014 01:52:47 AM,01/17/2014 02:58:41 AM,NYPD,New York City Police Department,Noise - Street/Sidewalk,Loud Talking,10027,Closed
+27274844,01/28/2014 02:34:45 PM,03/30/2014 06:10:41 AM,DOHMH,Department of Health and Mental Hygiene,Food Establishment,Odor,10453,Closed
+27076004,01/06/2014 12:00:00 AM,01/26/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,DOORS,11234,Closed
+27287151,01/29/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11368,Closed
+27025177,01/01/2014 04:59:37 PM,01/02/2014 12:00:00 AM,DOB,Department of Buildings,Special Projects Inspection Team (SPIT),Privately Owned Public Space/Non-Compliance,11419,Closed
+27190997,01/19/2014 01:16:58 PM,06/09/2014 05:08:48 PM,DOT,Department of Transportation,Street Sign - Damaged,Street Cleaning - ASP,11238,Closed
+27178384,01/17/2014 04:25:35 PM,,DOB,Department of Buildings,Boilers,Boiler - Defective/Inoperative/No Permit,11235,Open
+27274345,01/28/2014 12:00:00 AM,02/09/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,11203,Closed
+27275665,01/28/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10466,Closed
+27074987,01/06/2014 12:00:00 AM,01/14/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-WIRING,10473,Closed
+27044055,01/03/2014 09:12:00 PM,01/03/2014 09:12:00 PM,DSNY,BCC - Queens East,Snow,15S Re-Plow/Spread/Ice-Snow Cond.,11367,Closed
+27245194,01/25/2014 12:00:00 AM,01/29/2014 03:46:39 PM,DOHMH,Department of Health and Mental Hygiene,Rodent,Rat Sighting,10457,Closed
+27227816,01/22/2014 12:00:00 AM,01/25/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11215,Closed
+27205371,01/21/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,10457,Closed
+27128672,01/11/2014 08:33:00 PM,01/11/2014 10:05:00 PM,DOT,Department of Transportation,Traffic Signal Condition,Controller,11106,Closed
+27227835,01/22/2014 12:00:00 AM,,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,11372,Open
+27291751,01/29/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,RUBBISH,11213,Closed
+27188559,01/18/2014 11:27:00 AM,01/18/2014 12:00:00 PM,DSNY,BCC - Brooklyn North,Missed Collection (All Materials),2 Bulk-Missed Collection,11238,Closed
+27121613,01/10/2014 12:00:00 AM,01/14/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,11203,Closed
+27027361,01/01/2014 04:40:12 PM,01/03/2014 12:00:00 AM,DOB,Department of Buildings,Electrical,Electrical Wiring Defective/Exposed,11419,Closed
+27292239,01/30/2014 07:30:00 PM,03/05/2014 12:00:00 PM,DSNY,"A - Illegal Posting Staten Island, Queens and Brooklyn",Dirty Conditions,E15 Illegal Postering,11692,Closed
+27219581,01/22/2014 10:51:00 AM,01/23/2014 12:00:00 PM,DSNY,A - Brooklyn,Snow,E9 Snow / Icy Sidewalk,11204,Closed
+27204390,01/21/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,11214,Closed
+27130492,01/12/2014 12:00:00 AM,03/12/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,11225,Closed
+27262319,01/27/2014 12:00:00 AM,02/04/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10065,Closed
+27275682,01/28/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11372,Closed
+27143838,01/15/2014 12:58:48 AM,01/15/2014 02:13:20 AM,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,11220,Closed
+27277236,01/27/2014 09:04:04 AM,,DOB,Department of Buildings,Building/Use,Illegal Conversion Of Residential Building/Space,11417,Open
+27157484,01/15/2014 12:00:00 AM,01/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,CABINETS,11691,Closed
+27273792,01/28/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10463,Closed
+27268680,01/27/2014 12:00:00 AM,02/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-WIRING,11216,Closed
+27107721,01/09/2014 12:00:00 AM,01/12/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-SUPPLY,10467,Closed
+27128270,01/11/2014 12:00:00 AM,01/23/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,RUBBISH,10467,Closed
+27111496,01/09/2014 12:00:00 AM,02/04/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,11105,Closed
+27088673,01/07/2014 12:00:00 AM,01/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11216,Closed
+27071694,01/06/2014 12:00:00 AM,02/13/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-SUPPLY,11435,Closed
+27025090,01/01/2014 12:00:00 AM,01/08/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,APPLIANCE,REFRIGERATOR,11203,Closed
+27237467,01/23/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,10468,Closed
+27285469,01/29/2014 09:39:00 AM,01/30/2014 12:00:00 PM,DSNY,BCC - Brooklyn South,Missed Collection (All Materials),1R Missed Recycling-All Materials,11214,Closed
+27152432,01/15/2014 02:38:00 PM,01/16/2014 12:00:00 PM,DSNY,A - Brooklyn,Dirty Conditions,E3A Dirty Area/Alleyway,11201,Closed
+27171781,01/17/2014 10:12:52 AM,01/31/2014 09:46:20 AM,DOT,Department of Transportation,Broken Muni Meter,Out of Order,11218,Closed
+27072354,01/06/2014 03:26:00 PM,01/11/2014 12:00:00 PM,DSNY,BCC - Brooklyn South,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,11204,Closed
+27215956,01/21/2014 12:00:00 AM,01/22/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11355,Closed
+27196005,01/20/2014 02:47:39 PM,01/22/2014 12:00:00 AM,DOB,Department of Buildings,Investigations and Discipline (IAD),Investigative Inspection,10022,Closed
+27159683,01/16/2014 12:00:00 AM,01/30/2014 10:46:40 AM,DOHMH,Department of Health and Mental Hygiene,Rodent,Rat Sighting,10451,Closed
+27073135,01/06/2014 12:00:00 AM,01/09/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10462,Closed
+27126008,01/11/2014 05:35:00 PM,01/13/2014 12:00:00 PM,DSNY,A - Bronx,Dirty Conditions,E3A Dirty Area/Alleyway,10469,Closed
+27260987,01/26/2014 12:00:00 AM,02/01/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11206,Closed
+27291678,01/29/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11209,Closed
+27230958,01/23/2014 09:21:33 AM,01/24/2014 08:45:00 AM,DOT,Department of Transportation,Street Condition,Pothole,11433,Closed
+27231250,01/24/2014 01:44:25 AM,01/30/2014 09:28:34 AM,DPR,Department of Parks and Recreation,Maintenance or Facility,Structure - Indoors,10468,Closed
+27028647,01/01/2014 12:00:00 AM,01/07/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10473,Closed
+27248335,01/26/2014 11:44:00 AM,02/02/2014 12:45:00 PM,DEP,Department of Environmental Protection,Noise,Noise: Construction Before/After Hours (NM1),11102,Closed
+27070960,01/06/2014 04:48:00 PM,01/04/2014 01:29:00 AM,DOT,Department of Transportation,Street Light Condition,Street Light Out,10312,Pending
+27103882,01/08/2014 10:06:00 AM,01/08/2014 05:45:00 PM,DEP,Department of Environmental Protection,Water System,No Water/Low Pressure (WA5),10027,Closed
+27144153,01/14/2014 09:00:00 AM,01/17/2014 09:00:00 AM,DEP,Department of Environmental Protection,Noise,Noise: air condition/ventilation equipment (NV1),11232,Closed
+27069188,01/06/2014 12:00:00 AM,02/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,CEILING,10032,Closed
+27240088,01/24/2014 06:42:00 PM,01/24/2014 06:42:00 PM,DSNY,BCC - Staten Island,Snow,15S Re-Plow/Spread/Ice-Snow Cond.,10305,Closed
+27089519,01/08/2014 12:00:00 AM,02/01/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,WALLS,10031,Closed
+27173801,01/17/2014 11:57:00 PM,01/18/2014 01:47:15 AM,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,10029,Closed
+27163094,01/16/2014 12:00:00 AM,01/21/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PAINT - PLASTER,WALLS,10456,Closed
+27147233,01/14/2014 12:09:00 PM,01/16/2014 12:00:00 PM,DSNY,BCC - Brooklyn North,Missed Collection (All Materials),1 Missed Collection,11203,Closed
+27225011,01/22/2014 10:22:00 AM,01/22/2014 12:30:00 PM,DEP,Department of Environmental Protection,Sewer,Sewer Backup (Use Comments) (SA),11234,Closed
+27300397,01/30/2014 12:00:00 AM,02/03/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,10472,Closed
+27241402,01/24/2014 11:25:20 AM,01/27/2014 08:22:58 AM,DOB,DOB Inspections - Queens,Construction,Initial - CO,11368,Closed
+27291215,01/29/2014 12:00:00 AM,02/08/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,FLOOR,11219,Closed
+27115038,01/09/2014 12:00:00 AM,01/16/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,LIGHTING,10457,Closed
+27253572,01/24/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-SUPPLY,11208,Closed
+27184306,01/18/2014 09:11:00 AM,01/18/2014 12:00:00 PM,DSNY,BCC - Queens East,Missed Collection (All Materials),2 Bulk-Missed Collection,11354,Closed
+27268640,01/27/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,11218,Closed
+27199846,01/21/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,ELECTRIC,ELECTRIC-WIRING,11236,Closed
+27086977,01/07/2014 12:00:00 AM,01/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10028,Closed
+27184223,01/18/2014 04:15:00 PM,02/09/2014 02:25:00 PM,DEP,Department of Environmental Protection,Sewer,Defective/Missing Curb Piece (SC4),10014,Closed
+27256020,01/24/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10453,Closed
+27075225,01/06/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10457,Closed
+27161752,01/15/2014 07:00:51 PM,01/23/2014 09:30:00 PM,DOT,Department of Transportation,Street Condition,Pothole,10452,Closed
+27249250,01/26/2014 08:20:00 PM,02/06/2014 12:00:00 PM,DSNY,A - Queens,Snow,E9 Snow / Icy Sidewalk,11413,Closed
+27092021,01/06/2014 10:17:42 AM,01/07/2014 11:20:00 AM,DOT,Department of Transportation,Street Condition,Pothole,11203,Closed
+27292834,01/30/2014 12:00:00 AM,01/31/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11203,Closed
+27260203,01/26/2014 12:00:00 AM,01/30/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11432,Closed
+27132295,01/12/2014 12:00:00 AM,02/10/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,11226,Closed
+27275122,01/28/2014 09:22:00 AM,01/28/2014 10:45:00 AM,DEP,Department of Environmental Protection,Water System,Leak (Use Comments) (WA2),11238,Closed
+27289543,01/29/2014 03:09:19 PM,01/29/2014 04:35:33 PM,NYPD,New York City Police Department,Illegal Parking,Blocked Sidewalk,11216,Closed
+27132728,01/12/2014 10:28:00 AM,01/13/2014 11:49:00 AM,DEP,Department of Environmental Protection,Water Conservation,Water Meter Broken/Leaking - Private Residence (CMR),11358,Closed
+27203549,01/21/2014 07:39:23 AM,01/21/2014 08:42:30 AM,NYPD,New York City Police Department,Blocked Driveway,No Access,10472,Closed
+27095201,01/08/2014 12:00:00 AM,01/16/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10451,Closed
+27064705,01/05/2014 11:39:00 PM,01/07/2014 11:45:00 AM,DOT,Department of Transportation,Traffic Signal Condition,Controller,11208,Closed
+27146815,01/14/2014 12:00:00 AM,01/15/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11232,Closed
+27178521,01/17/2014 03:31:00 PM,01/18/2014 12:00:00 PM,DSNY,BCC - Staten Island,Request Xmas Tree Collection,C1 Request Xmas Trees Collection,10301,Closed
+27288727,01/29/2014 12:00:00 AM,02/12/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,RADIATOR,10040,Closed
+27240545,01/24/2014 02:16:40 AM,01/24/2014 07:12:32 AM,NYPD,New York City Police Department,Noise - Commercial,Loud Music/Party,10457,Closed
+27227581,01/22/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10458,Closed
+27076618,01/07/2014 10:11:00 AM,01/07/2014 10:22:00 AM,DEP,Department of Environmental Protection,Water System,Leak (Use Comments) (WA2),10462,Closed
+27101219,01/08/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10472,Closed
+27116789,01/10/2014 11:28:00 AM,01/11/2014 12:00:00 PM,DSNY,Bronx 10,Missed Collection (All Materials),1 Missed Collection,10465,Closed
+27116029,01/10/2014 12:00:00 AM,01/16/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,WATER-LEAKS,10303,Closed
+27304029,01/31/2014 12:00:00 AM,02/08/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,PLUMBING,BASIN/SINK,11432,Closed
+27262227,01/27/2014 12:00:03 PM,03/04/2014 12:00:00 AM,DOB,Department of Buildings,Special Projects Inspection Team (SPIT),Illegal Hotel Rooms In Residential Building,10018,Closed
+27108809,01/09/2014 02:11:00 PM,01/11/2014 12:00:00 PM,DSNY,BCC - Queens West,Missed Collection (All Materials),1RG Missed Recycling Paper,11378,Closed
+27285542,01/29/2014 12:00:00 AM,02/02/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,FLOOR,10451,Closed
+27187609,01/18/2014 10:11:10 AM,01/18/2014 10:53:28 AM,NYPD,New York City Police Department,Derelict Vehicle,With License Plate,11220,Closed
+27287565,01/29/2014 12:00:00 AM,02/05/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,NONCONST,VERMIN,11238,Closed
+27118032,01/10/2014 04:26:00 PM,01/17/2014 12:00:00 PM,DSNY,BCC - Brooklyn North,Missed Collection (All Materials),1R Missed Recycling-All Materials,11208,Closed
+27221646,01/22/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10031,Closed
+27095036,01/08/2014 12:00:00 AM,01/11/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11228,Closed
+27153829,01/15/2014 12:00:00 AM,01/16/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10462,Closed
+27055744,01/04/2014 08:01:53 PM,01/08/2014 08:36:21 AM,DOT,Department of Transportation,Bus Stop Shelter Placement,New Bus Stop Shelter Placement,11216,Closed
+27089592,01/07/2014 07:00:33 PM,01/08/2014 09:30:00 AM,DOT,Department of Transportation,Street Condition,Pothole,10033,Closed
+27264141,01/24/2014 12:28:23 PM,,DOB,Department of Buildings,Elevator,Elevator - Defective/Not Working,10456,Open
+27242657,01/24/2014 09:10:00 PM,03/17/2014 07:24:00 PM,DEP,Department of Environmental Protection,Noise,Noise: Private Carting Noise (NQ1),10005,Closed
+27072606,01/06/2014 08:18:37 AM,01/06/2014 05:56:36 PM,NYPD,New York City Police Department,Blocked Driveway,Partial Access,11234,Closed
+27150602,01/15/2014 12:00:00 AM,02/09/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,GENERAL CONSTRUCTION,MOLD,10462,Closed
+27157670,01/15/2014 07:16:00 AM,01/16/2014 08:05:00 AM,DEP,Department of Environmental Protection,Water System,Excessive Water In Basement (WEFB),11221,Closed
+27193942,01/20/2014 12:00:00 AM,01/24/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11223,Closed
+27227617,01/22/2014 12:00:00 AM,01/27/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,11422,Closed
+27138834,01/13/2014 10:20:28 PM,01/13/2014 11:18:03 PM,NYPD,New York City Police Department,Animal Abuse,Neglected,10301,Closed
+27086943,01/07/2014 12:00:00 AM,01/07/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10453,Closed
+27132093,01/12/2014 12:00:00 AM,01/19/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,HEATING,HEAT,10467,Closed
+27257785,01/26/2014 12:00:00 AM,02/01/2014 12:00:00 AM,HPD,Department of Housing Preservation and Development,APPLIANCE,ELECTRIC/GAS-RANGE,11373,Closed
